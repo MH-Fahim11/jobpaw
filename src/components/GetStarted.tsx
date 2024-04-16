@@ -5,12 +5,12 @@ import { Button } from 'react-bootstrap';
 const GetStarted = () => {
     return (
         <div className='mt-5'>
-            <h1 style={{ color: "#140B37", textAlign: "center", fontWeight: "bold" }}>It's Simple to get started</h1>
+            <h1 style={{ color: "#140B37", textAlign: "center", fontWeight: "bold" }}>Its Simple to get started</h1>
             <p style={{ width: "500px", margin: "auto" }} className='text-center'>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi soluta, natus fugiat dolores suscipit hic expedita
             </p>
             <div style={{backgroundColor: "whitesmoke"}}>
-                <div className='container' style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: "80px", padding: "100px 100px", borderRadius: "20px" }}>
+                <div className='container' style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: "10px", padding: "100px 50px", borderRadius: "20px" }}>
                     <Image width={650} src={get_started} alt="get started static image" />
                     <div style={{ fontSize: "21px" }}>
                         <p style={{ fontSize: "21px" }}>
