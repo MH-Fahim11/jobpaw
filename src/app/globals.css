@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.reviews {
+    height: 600px;
+    background-image: url('../components/assets/quote_mark.png');
+    background-repeat: no-repeat;
+}
